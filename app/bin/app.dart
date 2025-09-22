@@ -37,7 +37,7 @@ void main() {
         }
         break;
       case '2':
-        print("\nFitur ini akan diimplementasikan.\n");
+        bmi_calculator.tampilkanRiwayat(riwayatPerhitungan);
         break;
       case '3':
         print("Terima kasih!");
